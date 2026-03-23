@@ -1,3 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Yasemin Photography Logo">
-  <image href="./logo-yasemin-photography.png" x="0" y="0" width="1200" height="1200" preserveAspectRatio="xMidYMid meet"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" role="img" aria-label="Yasemin Photography Logo">
+  <g>
+    <text
+      x="360"
+      y="78"
+      text-anchor="middle"
+      font-family="Great Vibes, Allura, Cormorant Garamond, serif"
+      font-size="108"
+      font-weight="400"
+      letter-spacing="0.6"
+      fill="#F8F3ED"
+      stroke="#1F1A17"
+      stroke-opacity="0.45"
+      stroke-width="0.8"
+      paint-order="stroke"
+    >
+      Yasemin
+    </text>
+
+    <text
+      x="360"
+      y="128"
+      text-anchor="middle"
+      font-family="Manrope, Montserrat, sans-serif"
+      font-size="22"
+      font-weight="500"
+      letter-spacing="8"
+      fill="#F8F3ED"
+      stroke="#1F1A17"
+      stroke-opacity="0.42"
+      stroke-width="0.5"
+      paint-order="stroke"
+      opacity="0.98"
+    >
+      PHOTOGRAPHY
+    </text>
+
+    <path d="M132 115 H258" stroke="#F8F3ED" stroke-opacity="0.78" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M462 115 H588" stroke="#F8F3ED" stroke-opacity="0.78" stroke-width="1.4" stroke-linecap="round"/>
+
+    <circle cx="360" cy="115" r="2.8" fill="#F8F3ED" fill-opacity="0.96"/>
+  </g>
 </svg>
