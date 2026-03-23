@@ -70,8 +70,8 @@ img {
 }
 
 .brand img {
-  width: clamp(250px, 34vw, 390px);
-  height: 78px;
+  height: 110px;
+  width: auto;
   object-fit: contain;
 }
 
